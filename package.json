@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Alioo/slackemon/issues"
   },
-  "homepage": "https://github.com/Alioo/slackemon#readme"
+  "homepage": "https://github.com/Alioo/slackemon#readme",
+  "dependencies": {
+    "@slack/client": "^3.7.0"
+  }
 }
