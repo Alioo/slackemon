@@ -1,0 +1,24 @@
+{
+  "name": "slackemon",
+  "version": "1.0.0",
+  "description": "Pokemon of the day bot for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alioo/slackemon.git"
+  },
+  "keywords": [
+    "pokemon",
+    "slack",
+    "bot"
+  ],
+  "author": "Alain Arduain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alioo/slackemon/issues"
+  },
+  "homepage": "https://github.com/Alioo/slackemon#readme"
+}
